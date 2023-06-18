@@ -12,3 +12,5 @@
 # 備註
 此程式中有使用到selenium的相關模組  
 請在使用前在終端機內輸入pip install selenium  
+由於selenium特性，且筆者使用Chrome Driver作為Driver物件實體  
+因此在使用時必須下載Chrome Driver並設定路徑
